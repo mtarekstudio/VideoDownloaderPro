@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mtarekstudio.github.io/VideoDownloaderPro/sitemap.xml
